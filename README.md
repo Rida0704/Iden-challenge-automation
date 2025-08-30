@@ -59,7 +59,7 @@ python-dotenv>=1.0.0
 
 ### **1. Clone or Download**
 ```bash
-git clone <repository-url>
+git clone https://github.com/Rida0704/Iden-challenge-automation.git
 cd idenchallenge
 ```
 
